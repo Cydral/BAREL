@@ -25,7 +25,7 @@ The BAREL approach demonstrates promising results, outperforming both supervised
 
 ## Getting Started
 
-The BAREL approach and its implementation details are thoroughly described in the attached publication, "publication/CTY-I2A-20230403.pdf". To get started with this method, you can therefore access the publication and explore the provided details.
+The BAREL approach and its implementation details are thoroughly described in the attached publication in "publication/CTY-I2A-20230403.pdf". To get started with this method, you can therefore access the publication and explore the provided details.
 
 ## Contributing
 
