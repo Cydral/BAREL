@@ -27,10 +27,6 @@ The BAREL approach demonstrates promising results, outperforming both supervised
 
 The BAREL approach and its implementation details are thoroughly described in the attached publication in "publication/CTY-I2A-20230403.pdf". To get started with this method, you can therefore access the publication and explore the provided details.
 
-## Contributing
-
-Contributions to the BAREL project are welcome! If you encounter any issues, have suggestions for improvements, or would like to contribute to the project's development, please feel free to open an issue or submit a pull request on the project's GitHub repository (to be provided in the future).
-
 ## License
 
 The BAREL method and resources such as trained models are licensed under the [MIT License](https://github.com/Cydral/BAREL/blob/main/LICENSE).
@@ -38,5 +34,4 @@ The BAREL method and resources such as trained models are licensed under the [MI
 ## Acknowledgments
 
 We would like to express our gratitude to the researchers and developers who contributed to the development of the self-supervised learning methods, such as Barlow Twins, and the convolutional neural network architectures, like ResNet and DenseNet, which serve as the foundation for the BAREL approach.
-
-Additionally, we appreciate the efforts of the open-source community in providing valuable resources and tools, such as Dlib, StyleGAN, and others, which facilitated the implementation and evaluation of the BAREL method.
+Additionally, we appreciate the efforts of the open-source community in providing valuable resources and tools, such as the Dlib library, which facilitated the implementation and evaluation of the BAREL method.
