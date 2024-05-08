@@ -26,6 +26,7 @@ The BAREL approach demonstrates promising results, outperforming both supervised
 ## Getting Started
 
 The BAREL approach and its implementation details are thoroughly described in the attached publication in "publication/CTY-I2A-20230403.pdf". To get started with this method, you can therefore access the publication and explore the provided details.
+
 This project's GitHub repository also includes the training codes for the three presented models (supervised, self-supervised, and BAREL) and compiled binaries for Windows 64-bit systems (CUDA required). This will enable reproducing the results or utilizing the same principles to develop new models. Additionally, pre-trained models are available for download.
 
 ## License
@@ -35,4 +36,5 @@ The BAREL method and resources such as trained models are licensed under the [MI
 ## Acknowledgments
 
 We would like to express our gratitude to the researchers and developers who contributed to the development of the self-supervised learning methods, such as Barlow Twins, and the convolutional neural network architectures, like ResNet and DenseNet, which serve as the foundation for the BAREL approach.
+
 Additionally, we appreciate the efforts of the open-source community in providing valuable resources and tools, such as the Dlib library, which facilitated the implementation and evaluation of the BAREL method.
