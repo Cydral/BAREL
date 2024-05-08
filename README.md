@@ -33,7 +33,7 @@ Contributions to the BAREL project are welcome! If you encounter any issues, hav
 
 ## License
 
-The BAREL method and resources such as trained models are licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The BAREL method and resources such as trained models are licensed under the [MIT License](https://github.com/Cydral/BAREL/blob/main/LICENSE).
 
 ## Acknowledgments
 
